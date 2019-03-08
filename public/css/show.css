@@ -1,0 +1,16 @@
+body{
+    background-image:url("/images/homepage.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    background-color:pink;
+    border-radius:10px;
+    width: 37%;
+    opacity: 0.75;
+    color:black;
+    
+    /* background-size: 10%; */
+}
